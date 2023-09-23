@@ -67,7 +67,7 @@ FULL SUBTRACTOR
 ## Truthtable
 HALF SUBTRACTOR
 
-![Uploading 267692671-6fc6d4d8-5411-4b2a-88f2-622698d2b64e.png…]()
+![267694022-f4f042c0-7a73-4ea2-a004-fbeea417cde3](https://github.com/hariprasath5106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/111515488/f9971b76-ade8-4d3d-902a-3938539c8091)
 
 FULL SUBTRACTOR
 
