@@ -35,21 +35,23 @@ Write the detailed procedure here
 ## Program:
 /*
 Half subtractor:
+```
 module halfsub(a,b,di,bo);
 input a,b;
 output di,bo;
 assign di=(a^b);
 assign bo=((~a)&b);
 endmodule
-
+```
 Full subtractor:
+```
 module halfsub(a,b,di,bo);
 input a,b;
 output di,bo;
 assign di=(a^b);
 assign bo=((~a)&b);
 endmodule
-
+```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: HARI PRASATH S
 RegisterNumber: 212222240034
